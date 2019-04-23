@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "ee7a6410-571c-11e9-a2c6-61863c463528",
+    "_type": "dashboard",
+    "_source": {
+      "title": "Hotel Reviews Dashboard",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"embeddableConfig\":{},\"gridData\":{\"h\":21,\"i\":\"6\",\"w\":20,\"x\":0,\"y\":0},\"id\":\"c034ef70-6357-11e9-8ea4-d366a5778ef7\",\"panelIndex\":\"6\",\"type\":\"visualization\",\"version\":\"6.7.0\"},{\"embeddableConfig\":{\"mapCenter\":[52.35096518588541,4.841239750385285],\"mapZoom\":18},\"gridData\":{\"h\":21,\"i\":\"7\",\"w\":28,\"x\":20,\"y\":0},\"id\":\"d2d33640-6358-11e9-8ea4-d366a5778ef7\",\"panelIndex\":\"7\",\"type\":\"visualization\",\"version\":\"6.7.0\"},{\"embeddableConfig\":{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":0,\"direction\":\"desc\"}}}},\"gridData\":{\"h\":21,\"i\":\"8\",\"w\":20,\"x\":0,\"y\":21},\"id\":\"abc34b60-635a-11e9-8ea4-d366a5778ef7\",\"panelIndex\":\"8\",\"type\":\"visualization\",\"version\":\"6.7.0\"},{\"embeddableConfig\":{\"vis\":{\"params\":{\"sort\":{\"columnIndex\":1,\"direction\":\"desc\"}}}},\"gridData\":{\"h\":21,\"i\":\"9\",\"w\":28,\"x\":20,\"y\":21},\"id\":\"ed0f6160-635c-11e9-8ea4-d366a5778ef7\",\"panelIndex\":\"9\",\"type\":\"visualization\",\"version\":\"6.7.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":12,\"i\":\"10\",\"w\":20,\"x\":0,\"y\":42},\"id\":\"e24996e0-635e-11e9-8ea4-d366a5778ef7\",\"panelIndex\":\"10\",\"type\":\"visualization\",\"version\":\"6.7.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":21,\"i\":\"11\",\"w\":28,\"x\":20,\"y\":42},\"id\":\"e55bc370-635f-11e9-8ea4-d366a5778ef7\",\"panelIndex\":\"11\",\"type\":\"visualization\",\"version\":\"6.7.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":9,\"i\":\"12\",\"w\":20,\"x\":0,\"y\":54},\"id\":\"4a31d1e0-6360-11e9-8ea4-d366a5778ef7\",\"panelIndex\":\"12\",\"type\":\"visualization\",\"version\":\"6.7.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":20,\"i\":\"13\",\"w\":48,\"x\":0,\"y\":63},\"id\":\"00a41a80-65ed-11e9-8184-2befa7759668\",\"panelIndex\":\"13\",\"type\":\"search\",\"version\":\"6.7.0\"}]",
+      "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[]}"
+      }
+    }
+  }
+]
