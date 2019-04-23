@@ -1,0 +1,74 @@
+{
+  "Additional_Number_of_Scoring": {
+    "type": "long"
+  },
+  "Average_Score": {
+    "type": "double"
+  },
+  "Hotel_Address": {
+    "type": "text"
+  },
+  "Hotel_Name": {
+    "type": "keyword"
+  },
+  "Negative_Review": {
+    "type": "text"
+  },
+  "Positive_Review": {
+    "type": "text"
+  },
+  "Review_Date": {
+    "type": "date"
+  },
+  "Review_Total_Negative_Word_Counts": {
+    "type": "long"
+  },
+  "Review_Total_Positive_Word_Counts": {
+    "type": "long"
+  },
+  "Reviewer_Nationality": {
+    "type": "keyword"
+  },
+  "Reviewer_Score": {
+    "type": "double"
+  },
+  "Tags": {
+    "type": "keyword"
+  },
+  "Total_Number_of_Reviews": {
+    "type": "long"
+  },
+  "Total_Number_of_Reviews_Reviewer_Has_Given": {
+    "type": "long"
+  },
+  "days_since_review": {
+    "type": "long"
+  },
+  "location": {
+     "type": "geo_point"
+  },
+  "isWithPet": {
+    "type": "boolean"
+  },
+  "tripType": {
+    "type": "keyword"
+  },
+  "travelerType": {
+    "type": "keyword"
+  },
+  "roomType": {
+    "type": "keyword"
+  },
+  "stayedNights": {
+    "type": "integer"
+  },
+  "isSubmittedFromMobileDevice": {
+    "type": "boolean"
+  },
+  "hotelLocCountry": {
+    "type": "keyword"
+  },
+  "hotelLocCity": {
+    "type": "keyword"
+  }
+}
